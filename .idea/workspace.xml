@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e1b7a3a-6e35-40ef-889e-72940f066f75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/handlers/screams.js" beforeDir="false" afterPath="$PROJECT_DIR$/functions/handlers/screams.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/functions/handlers/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/functions/handlers/users.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/functions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/functions/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/functions/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/functions/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/functions/util/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/functions/util/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/util/fbAuth.js" beforeDir="false" afterPath="$PROJECT_DIR$/functions/util/fbAuth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/util/validators.js" beforeDir="false" afterPath="$PROJECT_DIR$/functions/util/validators.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +69,9 @@
       <option name="presentableId" value="Default" />
       <updated>1568707447591</updated>
       <workItem from="1568707449097" duration="1144000" />
-      <workItem from="1568714581802" duration="13787000" />
+      <workItem from="1568714581802" duration="15012000" />
+      <workItem from="1568787238863" duration="12470000" />
+      <workItem from="1568872391702" duration="4373000" />
     </task>
     <servers />
   </component>
@@ -81,7 +83,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

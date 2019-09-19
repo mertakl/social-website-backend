@@ -66,3 +66,4 @@ node_modules/
 
 functions/util/config.js
 
+.idea/workspace.xml
